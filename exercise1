@@ -1,0 +1,10 @@
+Coding Challenge: Average Weight Calculator
+
+Objective: 
+Write a program that calculates and prints the average weight of three people. 
+
+Instructions:
+1. Create three separate variables to represent the weight of three different people. 
+2. Assign a number (weight in kg or lbs) to each variable directly in your code.
+3. Calculate the average of these three weights.
+4. Print the final average weight to the screen.
