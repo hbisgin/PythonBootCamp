@@ -1,0 +1,23 @@
+Python Exercise: Test Score Averager
+
+Problem Statement:
+
+Write a Python program that does the following:
+
+Asks the user to input their name.
+
+Asks the user to input two separate test scores (numbers).
+
+Calculates the average of the two test scores.
+
+Prints a message displaying the person's name and their average test score.
+
+################
+Example Output:
+
+
+Enter your name: Alex
+Enter score 1: 85
+Enter score 2: 90
+
+Alex, your average test score is 87.5.
